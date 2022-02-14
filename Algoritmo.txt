@@ -1,0 +1,27 @@
+Inicio de programa
+Una ventana que nos solicita el nombre
+Una ventana con solicitud de edad >= 18
+Una ventana con con la interrogante si la persona esta casado/a
+Si estuviera casado/a hace la interrogante de la edad del conyuge
+Convierte la edad a numeros
+Si esta casado/a convierte la edad 
+Hace una interrogante si tiene hijos/hijas
+Comprueba la cantidad de hijos si los tuviera
+Convierte la cantidad de hijos a numeros
+Hace la interrogante de cuantas propiedades tiene
+Convierte la cantidad de propiedades en numeros
+Hace la interrogante del monto de los ingresos
+Convierte la cantidad de ingresos en numeros
+Calcula el recargo por edad en el rango de 18 a 24 años
+Calcula el recargo por edad en el rango de 25 a 49 años
+Calcula el recargo por edad en el rango de 50 años en adelante
+Calcula el recargo por edad en el rango de 18 a 24 años
+Calcula el recargo por edad en el rango de 24 a 49 años
+Calcula el recargo por edad en el rango de 50 años en adelante
+Calcula el recargo por la cantidad de hijos
+Calcula el recargo por la cantidad de ingresos
+Sumar los recargos acumulados + el precio base para obtener el precio final
+Muesta el nombre
+Muesta el recargo total
+Muesta el precio de la cotización
+Hace la interrogante si desea SALIR
